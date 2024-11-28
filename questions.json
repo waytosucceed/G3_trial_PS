@@ -1,0 +1,349 @@
+{
+    "heading": "Addition and Subtraction",
+    "topics": [
+      {
+        "heading": "Previous knowledge ",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "Count the ice cream cones by 5s. How many ice cream cones are there?<br><img width='50%' src='./assests/images/question/1.png'>",
+            "options": [
+              { "text": "5" },
+              { "text": "20" },
+              { "text": "10" },
+              { "text": "15" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 2,
+            "question": "Is the number of diamonds even or odd?<br><img width='50%' src='./assests/images/question/2.png'>",
+            "options": [
+              { "text": "Even" },
+              { "text": "Odd" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 3,
+            "question": "Which number makes the equation true?<br><img width='50%' src='./assests/images/question/3.png'>",
+            "options": [
+              { "text": "4" },
+              { "text": "5" },
+              { "text": "3" },
+              { "text": "2" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 4,
+            "question": "Which of the following is the ordinal number?",
+            "options": [
+              { "text": "Twenty-seven" },
+              { "text": "62" },
+              { "text": "94th" },
+              { "text": "Thirty-three" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 5,
+            "question": "Identify the shape that comes next.<br><img width='80%' src='./assests/images/question/22.png'>",
+            "options": [
+              { "image": "./assests/images/option/1.jpg" },
+              { "image": "./assests/images/option/2.jpg" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 6,
+            "question": "What is the value of the underlined digit?<br><img width='50%' src='./assests/images/question/4.png'>",
+            "options": [
+              { "text": "3" },
+              { "text": "80" },
+              { "text": "30" },
+              { "text": "8" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 7,
+            "question": "Perform the following subtraction operation.<br><img width='50%' src='./assests/images/question/5.png'>",
+            "options": [
+              { "text": "4" },
+              { "text": "2" },
+              { "text": "3" },
+              { "text": "5" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 8,
+            "question": "Arrange the following numbers from greatest to smallest:<br><img width='50%' src='./assests/images/question/6.png'>",
+            "options": [
+              { "text": "45, 32, 67, 89" },
+              { "text": "89, 67, 45, 32" },
+              { "text": "32, 45, 67, 89" },
+              { "text": "32, 89, 67, 45" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 9,
+            "question": "How many vertices does this shape have?<br><img width='50%' src='./assests/images/question/7.png'>",
+            "options": [
+              { "text": "4" },
+              { "text": "6" },
+              { "text": "5" },
+              { "text": "3" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 10,
+            "question": "Construction workers are building a new road. Yesterday they completed 10 metres of the road. Today they completed another 8 metres of the road. How many metres of the road have they completed so far?",
+            "options": [
+              { "text": "11 + 10 = 21" },
+              { "text": "10 + 8 = 18" },
+              { "text": "10 + 10 = 20" },
+              { "text": "9 + 10 = 19" }
+            ],
+            "answer": 1
+          }
+        ]   
+      },
+      {
+        "heading": "Current level",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "Which number is missing from this sequence?<br><img width='80%' src='./assests/images/question/23.png'>",
+            "options": [
+              { "text": "75" },
+              { "text": "86" },
+              { "text": "79" },
+              { "text": "84" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 2,
+            "question": "Which words make this statement true?<br><img width='80%' src='./assests/images/question/24.png'>",
+            "options": [
+              { "text": "Is less than" },
+              { "text": "Is greater than" },
+              { "text": "Is equal to" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 3,
+            "question": "Which of the following is the cardinal number?",
+            "options": [
+              { "text": "Twenty-first" },
+              { "text": "Fifty-fourth" },
+              { "text": "23" },
+              { "text": "Thirty-fifth" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 4,
+            "question": "Dave picked 27 oranges and divided them into 3 equal bags. How many oranges did Dave put in each bag?",
+            "options": [
+              { "text": "7" },
+              { "text": "9" },
+              { "text": "8" },
+              { "text": "6" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 5,
+            "question": "Type the missing numbers.",
+            "inputBox": [
+              { "operand": "fifty-six" },
+              { "operand": "=" },
+              { "operand": "" },
+              { "operand": "tens" },
+              { "operand": "+" },
+              { "operand": "" },
+              { "operand": "ones" }
+            ],
+            "answer": ["5","6"]
+          },
+          {
+            "questionNo": 6,
+            "question": "Last week, Owen and Monica went on a road trip. Owen drove 61 miles and Monica drove 24 miles. In total, how many miles did they travel?",
+            "options": [
+              { "text": "85" },
+              { "text": "87" },
+              { "text": "86" },
+              { "text": "88" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 7,
+            "question": "Identify the division statement.<br><img width='50%' src='./assests/images/question/8.png'>",
+            "options": [
+              { "text": "15 ÷ 5 = 3" },
+              { "text": "15 ÷ 3 = 5" },
+              { "text": "16 ÷ 4 = 4" },
+              { "text": "18 ÷ 6 = 3" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 8,
+            "question": "Which expression equals 2 x 5?",
+            "options": [
+              { "text": "5 + 5 + 5" },
+              { "text": "5 + 5" },
+              { "text": "5 + 5 + 5 + 5 + 5 + 5" },
+              { "text": "5 + 5 + 5 + 5 + 5" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 9,
+            "question": "What is 600 + 50 + 4 in standard form?",
+            "options": [
+              { "text": "650" },
+              { "text": "604" },
+              { "text": "654" },
+              { "text": "656" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 10,
+            "question": "Colton is helping set up for a school picnic by putting out small and large paper plates. He has a total of 84 paper plates. If he has 32 large ones, how many small paper plates does Colton have?",
+            "options": [
+              { "text": "49" },
+              { "text": "51" },
+              { "text": "48" },
+              { "text": "52" }
+            ],
+            "answer": 3
+          }
+        ]  
+      },
+      {
+        "heading": "level 1",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "Which inequality does this number line show?<br><img width='80%' src='./assests/images/question/25.png'>",
+            "options": [
+              { "text": "Greater than 2" },
+              { "text": "Less than 3" },
+              { "text": "Greater than 3" },
+              { "text": "Greater than or equal to 3" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 2,
+            "question": "Last year at Campbell's airport, 8,868 passengers landed on time. Unfortunately, 8,215 passengers landed late. In all, how many passengers landed in Campbell last year?",
+            "options": [
+              { "text": "17,096" },
+              { "text": "17,043" },
+              { "text": "17,083" },
+              { "text": "17,100" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 3,
+            "question": "Identify the missing number in the given pattern:<br> 3, 12, 48, 192, ___",
+            "options": [
+              { "text": "568" },
+              { "text": "768" },
+              { "text": "786" },
+              { "text": "842" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 4,
+            "question": "Which shape shows the fraction 3/4?",
+            "options": [
+              { "image": "./assests/images/option/3.jpg" },
+              { "image": "./assests/images/option/4.jpg" },
+              { "image": "./assests/images/option/5.jpg"  },
+              { "image": "./assests/images/option/6.jpg" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 5,
+            "question": "Emmy built a 3-dimensional figure that had a square base and 4 triangular faces. Which figure could Emmy have built?",
+            "options": [
+              { "image": "./assests/images/option/7.jpg" },
+              { "image": "./assests/images/option/8.jpg" },
+              { "image": "./assests/images/option/9.jpg"  },
+              { "image": "./assests/images/option/10.jpg" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 6,
+            "question": "Identify the division statement for the given passage: “A clothing store distributed 14 shirts evenly on 7 racks. How many shirts did the store put on each rack?”",
+            "options": [
+              { "text": "14 ÷ 7 = 2" },
+              { "text": "14 ÷ 2 = 7" },
+              { "text": "15 ÷ 3 = 5" },
+              { "text": "15 ÷ 5 = 3" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 7,
+            "question": "Which words make this statement true?<br>₹7.53 _______ ₹3.04",
+            "options": [
+              { "text": "Is greater than" },
+              { "text": "Is less than" },
+              { "text": "Is equal to" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 8,
+            "question": "Michael starts a spelling test at 11:20 A.M. The test is 15 minutes long. After the spelling test, Michael has art class for 35 minutes. What time does Michael's art class end?",
+            "options": [
+              { "text": "2:10 P.M" },
+              { "text": "11:10 A.M" },
+              { "text": "12:10 P.M" },
+              { "text": "12:15 P.M" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 9,
+            "question": "If you roll a 6-sided die, what is the probability of rolling a three?",
+            "options": [
+              { "text": "2/6" },
+              { "text": "1/6" },
+              { "text": "1/3" },
+              { "text": "1/5" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 10,
+            "question": "SweetyPie Baking Company had 679 eggs. Then employees used 271 eggs to make fudge. About how many eggs are left?",
+            "options": [
+              { "text": "410" },
+              { "text": "406" },
+              { "text": "407" },
+              { "text": "408" }
+            ],
+            "answer": 3
+          }
+        ]
+        
+      }
+    ]
+  }
+  
